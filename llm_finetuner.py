@@ -11,10 +11,6 @@ from trl import SFTTrainer
 
 
 class LLMFineTuner:
-    """
-    LLM Fine-Tuning Module
-    Can be plugged into any AI Chatbot project
-    """
 
     def __init__(
         self,
