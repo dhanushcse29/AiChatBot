@@ -1,0 +1,202 @@
+[
+  {
+    "instruction": "Give details about Therefore, the training of deep neural",
+    "output": "Therefore, the training of deep neural network for judgment of interior designs based on artist-provided data will be a vital task for future work."
+  },
+  {
+    "instruction": "Describe In order to validate our hypotheses,",
+    "output": "In order to validate our hypotheses, we conducted an experiment using a subjective, two-alternative, forced-choice preference approach similar to [10,11]."
+  },
+  {
+    "instruction": "Explain Both designers and clients can virtually",
+    "output": "Both designers and clients can virtually visit, explore, and interact with the architectural scenes even before or during their construction."
+  },
+  {
+    "instruction": "What is Furniture objects have to be physically?",
+    "output": "Furniture objects have to be physically accessible by people."
+  },
+  {
+    "instruction": "Explain 6 CONCLUSION This paper presents a",
+    "output": "6 CONCLUSION This paper presents a novel method for automatic furniture arrange- ment in interior scenes."
+  },
+  {
+    "instruction": "What is For this purpose we use the?",
+    "output": "For this purpose we use the set of moves which can change the furniture layout [11]."
+  },
+  {
+    "instruction": "Define Figure 3: The numbers of interior",
+    "output": "Figure 3: The numbers of interior designs which were judged by artists as livable."
+  },
+  {
+    "instruction": "Describe From these numbers we can calculate",
+    "output": "From these numbers we can calculate the probabilities of generation of interior design: Genetic algorithm generated 40% livable designs for bedroom scene and 52% livable designs for ofﬁce scene."
+  },
+  {
+    "instruction": "Describe The procedure for selection of appropriate",
+    "output": "The procedure for selection of appropriate door model and its placement is the same as the one for windows."
+  },
+  {
+    "instruction": "What is The problem of automatic furniture selection?",
+    "output": "The problem of automatic furniture selection and lay- out was addressed in past by Yeh et al."
+  },
+  {
+    "instruction": "Give details about We im- plemented the table decoration",
+    "output": "We im- plemented the table decoration for kitchen, living room, and ofﬁce."
+  },
+  {
+    "instruction": "Give details about Aesthetic, ergonomic and functional rules are",
+    "output": "Aesthetic, ergonomic and functional rules are one of the key principles used by interior designers when creating a new design for a speciﬁc room."
+  },
+  {
+    "instruction": "Explain We tested our system in a",
+    "output": "We tested our system in a scenario where auto- matic content generation in complex virtual environment is required: Generation of interior design in a large ﬂat for VR walkthrough."
+  },
+  {
+    "instruction": "What is These categories correspond to the types?",
+    "output": "These categories correspond to the types of objects, e.g."
+  },
+  {
+    "instruction": "What is For the ofﬁce and living room?",
+    "output": "For the ofﬁce and living room table, the objects are positioned stochastically with higher probability to be in the center of the table."
+  },
+  {
+    "instruction": "What is The decoration procedure randomly selects a?",
+    "output": "The decoration procedure randomly selects a decorative object from the database and places it onto the random location on the base surface."
+  },
+  {
+    "instruction": "Explain While the former method uses the",
+    "output": "While the former method uses the set of predeﬁned constraints to form the cost function, the later method uses the cost function which mimics the principles used in professional interior design practice."
+  },
+  {
+    "instruction": "Explain We accept only moves which do",
+    "output": "We accept only moves which do not cause intersections of objects."
+  },
+  {
+    "instruction": "Give details about Our method achieves the execution times",
+    "output": "Our method achieves the execution times 44 times faster in average than genetic algorithm."
+  },
+  {
+    "instruction": "What is Connect furniture object with one of?",
+    "output": "Connect furniture object with one of possible parents."
+  },
+  {
+    "instruction": "Give details about Procedural methods are fast and viable",
+    "output": "Procedural methods are fast and viable solution to this highly constrained problem because they directly generate the content according to the given constraints."
+  },
+  {
+    "instruction": "What is Move 7 is executed for each?",
+    "output": "Move 7 is executed for each furniture object with the probability of having a parent, deﬁned for the speciﬁc object category."
+  },
+  {
+    "instruction": "Define Therefore, our procedural decoration positions curtains",
+    "output": "Therefore, our procedural decoration positions curtains in front of the windows if the surrounding walls and objects allow it."
+  },
+  {
+    "instruction": "What is Figure 1: Interior scene generated by?",
+    "output": "Figure 1: Interior scene generated by our method in 380 milliseconds."
+  },
+  {
+    "instruction": "What is Rather multiple diverse solutions are preferable?",
+    "output": "Rather multiple diverse solutions are preferable which are locally optimal and which fulﬁll speciﬁc expectations (i.e."
+  },
+  {
+    "instruction": "Explain The following scenes are shown from",
+    "output": "The following scenes are shown from top to bottom: Bedroom, kitchen, living room and ofﬁce."
+  },
+  {
+    "instruction": "Define Their method uses agent-based solution to",
+    "output": "Their method uses agent-based solution to automatically generate object layouts."
+  },
+  {
+    "instruction": "Explain Therefore, we integrated procedure for corner",
+    "output": "Therefore, we integrated procedure for corner decoration into our system."
+  },
+  {
+    "instruction": "Explain Table 3: The results of the",
+    "output": "Table 3: The results of the Chi-square analysis."
+  },
+  {
+    "instruction": "Define 3.2 Cost Function Our algorithm optimizes",
+    "output": "3.2 Cost Function Our algorithm optimizes furniture layout with respect to the cost function to reach the most desirable furniture arrangement for a given room."
+  },
+  {
+    "instruction": "Explain We add the wall distance term",
+    "output": "We add the wall distance term gw to the alignment cost to support the requirement of some objects to stand near a wall."
+  },
+  {
+    "instruction": "Define Moreover, 30 3D models subdivided into",
+    "output": "Moreover, 30 3D models subdivided into 10 different sets were used for procedural decoration."
+  },
+  {
+    "instruction": "Define In an optimized layout, some objects",
+    "output": "In an optimized layout, some objects should be visible from the others for their primary function."
+  },
+  {
+    "instruction": "Describe Finally, the ﬂoor under the table",
+    "output": "Finally, the ﬂoor under the table is decorated by carpet in kitchen and living room if there is enough space around the table for inserting this carpet."
+  },
+  {
+    "instruction": "Describe plates on table, windows in the",
+    "output": "plates on table, windows in the openings, etc.)."
+  },
+  {
+    "instruction": "Define does not require to ﬁnd a",
+    "output": "does not require to ﬁnd a globally optimal solution."
+  },
+  {
+    "instruction": "What is Interior Design Reference Manual: Everything You?",
+    "output": "Interior Design Reference Manual: Everything You Need to Know to Pass the NCIDQ Exam."
+  },
+  {
+    "instruction": "Define Window blinds are useful for controlling",
+    "output": "Window blinds are useful for controlling the amount of light in indoor spaces and therefore are frequently part of the interior or exterior."
+  },
+  {
+    "instruction": "Give details about Different rooms require speciﬁc objects for",
+    "output": "Different rooms require speciﬁc objects for their primary function and for activities performed in these rooms."
+  },
+  {
+    "instruction": "What is The limitation of greedy cost minimization?",
+    "output": "The limitation of greedy cost minimization is that it can be trapped in a local minimum."
+  },
+  {
+    "instruction": "Define shelf or top desk of cabinet)",
+    "output": "shelf or top desk of cabinet) for storing decorative objects or objects of everyday use (e.g."
+  },
+  {
+    "instruction": "Describe to not always ﬁnd the same",
+    "output": "to not always ﬁnd the same global optimum)."
+  },
+  {
+    "instruction": "Define Based on these results we conclude",
+    "output": "Based on these results we conclude that both eval- uated methods achieve comparable quality of automatic furniture arrangement in terms of user preference."
+  },
+  {
+    "instruction": "Describe greedy cost minimization) can be used",
+    "output": "greedy cost minimization) can be used to address this problem."
+  },
+  {
+    "instruction": "Give details about 4.4 Complex Virtual Environments We integrated",
+    "output": "4.4 Complex Virtual Environments We integrated the presented methods into a complex system for content generation in virtual environments."
+  },
+  {
+    "instruction": "Describe Align furniture object with the closest",
+    "output": "Align furniture object with the closest object."
+  },
+  {
+    "instruction": "Give details about We address this problem by utilizing",
+    "output": "We address this problem by utilizing procedural methods for scene detail enhancement."
+  },
+  {
+    "instruction": "Define Our thanks also goes to professional",
+    "output": "Our thanks also goes to professional artists Anna Cs´efalvay and Matej Hoppan for their help with the livability evalu- ation in our expert study."
+  },
+  {
+    "instruction": "What is In interior design, the objects should?",
+    "output": "In interior design, the objects should be properly oriented and aligned to their supporting surfaces and to other objects."
+  },
+  {
+    "instruction": "What is • Probability of standing against a?",
+    "output": "• Probability of standing against a wall."
+  }
+]
