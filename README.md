@@ -1,2 +1,0 @@
-# AiChatBot
-For daily updations
