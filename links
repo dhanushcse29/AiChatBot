@@ -6,3 +6,4 @@ perplexity link
 https://www.perplexity.ai/search/how-to-implement-raft-fine-tun-PE49dLLfSfeGy7SWOb0AVw#0
 perplexity link pooj
 https://www.perplexity.ai/search/i-want-to-build-a-chatbot-whic-Snf2PD68S.6gkLmmITyeqA?sm=d#0
+hf download unsloth/Llama-3.2-3B-Instruct --local-dir ./models/llama3.2-3b
